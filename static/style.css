@@ -33,6 +33,7 @@ li a {
   padding : 14px 16px;
   text-decoration: none;
   color: black
+  display: block;
 }
 
 /* Change color on hover */
